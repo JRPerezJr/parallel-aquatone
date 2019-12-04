@@ -1,0 +1,17 @@
+{
+  "name": "parallel-aquatone",
+  "version": "1.0.0",
+  "description": "Run aquatone in parallel",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "promises": "node promise.js",
+    "wait": "node wait.js"
+  },
+  "keywords": [],
+  "author": "Juan R Perez Jr.",
+  "license": "MIT",
+  "dependencies": {
+    "array-to-txt-file": "^1.0.2"
+  }
+}
