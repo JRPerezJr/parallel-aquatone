@@ -4,8 +4,12 @@
 *.so
 *.dylib
 *.bin
+*.txt
 
 node_modules/
+Results/
+Results1/
+Results2/
 
 .local-chromium/
 
